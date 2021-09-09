@@ -7,6 +7,10 @@
 
 3. [Plataforma do Kahoot!](https://kahoot.com/schools-u/)
 
+4. Vídeo
+
+5. [Pesquisa para próximas ferramentas](https://forms.gle/E2HQJKdKRbD5pxAP7)
+
 Material extra aula:
 
 1. [Kahoot!: um relato de experiência no contexto acadêmico](https://github.com/fischerJF/miniCursoFamart/blob/gh-pages/Kahoot!-%20um%20relato%20de%20experiencia%20no%20contexto%20acad%C3%AAmico.pdf)
