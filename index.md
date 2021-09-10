@@ -9,9 +9,8 @@
 
 4. [Plataforma do Kahoot!](https://kahoot.com/schools-u/)
 
-5. Vídeos
+5. Vídeos: [Parte 1](https://youtu.be/fWHy-YtJ6MM) - [Parte 2](https://youtu.be/iaIpQMeLxXM)
 
-[![Everything Is AWESOME](https://github.com/fischerJF/miniCursoFamart/blob/gh-pages/Kahoot.PNG)](https://youtu.be/fWHy-YtJ6MM "Everything Is AWESOME")
 
 6. [Pesquisa para próximas ferramentas](https://forms.gle/E2HQJKdKRbD5pxAP7)
 
