@@ -5,7 +5,7 @@
 
 2. [Kahoot apresentado na aula](https://create.kahoot.it/share/apresentacao-kahoot/b97267e0-3f1f-4c03-ba79-b8ea90d17336) 
 
-3. Relatório do Kahoot!
+3. [Relatório do Kahoot!](https://github.com/fischerJF/miniCursoFamart/blob/gh-pages/Apresenta%C3%A7%C3%A3o%20Kahoot!.xlsx)
 
 4. [Plataforma do Kahoot!](https://kahoot.com/schools-u/)
 
