@@ -20,3 +20,8 @@ Material extra aula:
 2. [Apresentação](https://github.com/fischerJF/miniCursoFamart/blob/gh-pages/Apresentacao_Kahoot%20-%20um%20relato%20de%20experiencia%20no%20contexto%20acad%C3%AAmico.pdf)
 
 3. [GUIA PRÁTICO PARA USO DE PLATAFORMAS VIRTUAIS NO ENSINO REMOTO - UFMG](https://www.nescon.medicina.ufmg.br/biblioteca/imagem/E-book-Guia-pratico-plataformas-virtuais-3.pdf)
+
+
+# Aula 2 16/09/2021
+
+[Aula 2 16-09-21](meet.google.com/myh-kaoz-hos)
