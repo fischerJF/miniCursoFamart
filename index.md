@@ -24,7 +24,7 @@ Material extra aula:
 
 # Aula 2 16/09/2021
 
-1.  [Vídeo:](https://youtu.be/-iOYaDbn8OA) 
+1.  [Vídeo](https://youtu.be/-iOYaDbn8OA) 
 
 # Aula 3 23/09/2021
 
