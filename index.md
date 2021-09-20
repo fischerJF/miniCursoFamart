@@ -34,6 +34,7 @@ Material extra aula:
 
 Material extra aula:
 1. DA SILVA, Patrícia Fernanda. O uso das Tecnologias Digitais como Ferramentas Cognitivas. RENOTE, v. 17, n. 2, p. 76-86, 2019.
+2. DOS SANTOS, Carlos Eduardo Rocha et al. Acessibilidade Digital em Ambientes Virtuais de Aprendizagem: uma Revisão Sistemática. EaD em Foco, v. 11, n. 1, 2021.
 
 # Aula 3 (23/09/2021)
 
