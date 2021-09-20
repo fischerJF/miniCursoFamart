@@ -28,7 +28,8 @@ Material extra aula:
 
 2. [Vídeo](https://youtu.be/-iOYaDbn8OA) 
 
-3. Atividade para casa no Padlet. Apresentação dos participates do mini curso. (Enunciado da atividade)[https://padlet.com/fischerinf/523b4qkqid35dzf9]
+3. Atividade para casa no Padlet: Apresentação dos participates do mini curso. 
+(Enunciado da atividade)[https://padlet.com/fischerinf/523b4qkqid35dzf9]
 
 # Aula 3 23/09/2021
 
