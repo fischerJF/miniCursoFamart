@@ -31,6 +31,10 @@ Material extra aula:
 3. Atividade 2 no Padlet (para casa): Apresentação dos participates do mini curso. 
 #### [Enunciado da atividade](https://padlet.com/fischerinf/523b4qkqid35dzf9)
 
+
+Material extra aula:
+1. DA SILVA, Patrícia Fernanda. O uso das Tecnologias Digitais como Ferramentas Cognitivas. RENOTE, v. 17, n. 2, p. 76-86, 2019.
+
 # Aula 3 (23/09/2021)
 
 [Acesso ao Meet para Aula 3 23-09-21](https://meet.google.com/myh-kaoz-hos?pli=1) 
