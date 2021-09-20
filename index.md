@@ -30,4 +30,4 @@ Material extra aula:
 
 # Aula 3 23/09/2021
 
-[Acesso ao Meet para Aula 2 16-09-21](https://meet.google.com/myh-kaoz-hos?pli=1) 
+[Acesso ao Meet para Aula 3 23-09-21](https://meet.google.com/myh-kaoz-hos?pli=1) 
