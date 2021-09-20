@@ -1,5 +1,5 @@
 ## Mini curso Famart: Ferramentas online nas práticas pedagógicas em sala de aula
-# Aula 1 09/09/2021
+# Aula 1 (09/09/2021)
 
 1. [Slides](https://github.com/fischerJF/miniCursoFamart/blob/gh-pages/Ferramentas%20online%20nas%20pr%C3%A1ticas%20pedag%C3%B3gicas%20em%20sala%20de%20aula.pdf)
 
@@ -22,7 +22,7 @@ Material extra aula:
 3. [GUIA PRÁTICO PARA USO DE PLATAFORMAS VIRTUAIS NO ENSINO REMOTO - UFMG](https://www.nescon.medicina.ufmg.br/biblioteca/imagem/E-book-Guia-pratico-plataformas-virtuais-3.pdf)
 
 
-# Aula 2 16/09/2021
+# Aula 2 (16/09/2021)
 
 1. [Slides](https://github.com/fischerJF/miniCursoFamart/blob/gh-pages/Aula2_Ferramentas%20online%20nas%20pr%C3%A1ticas%20pedag%C3%B3gicas%20em%20sala%20de%20aula%20(1).pdf)
 
@@ -31,6 +31,6 @@ Material extra aula:
 3. Atividade para casa no Padlet: Apresentação dos participates do mini curso. 
 [Enunciado da atividade](https://padlet.com/fischerinf/523b4qkqid35dzf9)
 
-# Aula 3 23/09/2021
+# Aula 3 (23/09/2021)
 
 [Acesso ao Meet para Aula 3 23-09-21](https://meet.google.com/myh-kaoz-hos?pli=1) 
