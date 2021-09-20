@@ -24,7 +24,9 @@ Material extra aula:
 
 # Aula 2 16/09/2021
 
-1.  [Vídeo](https://youtu.be/-iOYaDbn8OA) 
+1. [Slides](https://github.com/fischerJF/miniCursoFamart/blob/gh-pages/Aula2_Ferramentas%20online%20nas%20pr%C3%A1ticas%20pedag%C3%B3gicas%20em%20sala%20de%20aula%20(1).pdf)
+
+2. [Vídeo](https://youtu.be/-iOYaDbn8OA) 
 
 # Aula 3 23/09/2021
 
