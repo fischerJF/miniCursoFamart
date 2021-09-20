@@ -1,4 +1,4 @@
-## Mini curso Famart: Ferramentas online nas práticas pedagógicas em sala de aula
+## Minicurso Famart: Ferramentas online nas práticas pedagógicas em sala de aula
 # Aula 1 (09/09/2021)
 
 1. [Slides](https://github.com/fischerJF/miniCursoFamart/blob/gh-pages/Ferramentas%20online%20nas%20pr%C3%A1ticas%20pedag%C3%B3gicas%20em%20sala%20de%20aula.pdf)
@@ -28,7 +28,7 @@ Material extra aula:
 
 2. [Vídeo](https://youtu.be/-iOYaDbn8OA) 
 
-3. Atividade 2 no Padlet (para casa): Apresentação dos participates do mini curso. 
+3. Atividade 2 no Padlet (para casa): Apresentação dos participates do minicurso. 
 #### [Enunciado da atividade](https://padlet.com/fischerinf/523b4qkqid35dzf9)
 
 
