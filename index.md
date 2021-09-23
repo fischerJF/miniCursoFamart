@@ -44,7 +44,7 @@ Material extra aula:
 
 Material Extra
 
-1. [Manueal](https://github.com/fischerJF/miniCursoFamart/blob/gh-pages/manual-do-estudante-para-o-ensino-remoto.pdf)
+1. [Manual](https://github.com/fischerJF/miniCursoFamart/blob/gh-pages/manual-do-estudante-para-o-ensino-remoto.pdf)
 
 [Acesso ao Meet para Aula 3 23-09-21](https://meet.google.com/myh-kaoz-hos?pli=1) 
 
