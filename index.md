@@ -39,6 +39,7 @@ Material extra aula:
 # Aula 3 (23/09/2021)
 
 1. [Slides](https://github.com/fischerJF/miniCursoFamart/blob/gh-pages/Aula3_Ferramentas%20online%20nas%20pr%C3%A1ticas%20pedag%C3%B3gicas%20em%20sala%20de%20aula.pdf)
+2. [Vídeo](https://youtu.be/XwkLYl0TdEQ)
 
 
 
